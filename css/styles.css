@@ -29,7 +29,7 @@ link {
   color: #2e2f42;
 }
 
-.list{
+.list {
   list-style: none;
 }
 
@@ -81,9 +81,10 @@ contacts-tel {
 }
 
 .section-1-btn {
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.33;
+  line-height: 1.5;
   display: flex;
   align-items: center;
   letter-spacing: 0.04em;
@@ -103,6 +104,10 @@ contacts-tel {
   color: white;
 }
 /* section 2 */
+
+.sect-2-title {
+  line-height: 1.07;
+}
 
 .section-2-title {
   font-weight: 500;
@@ -127,7 +132,7 @@ contacts-tel {
 .section3-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.1;
+  line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
