@@ -64,7 +64,7 @@ contacts-tel {
 .list {
   list-style: none;
 }
-/* section 1 */
+/* section 1  hero*/
 
 .section-hero {
   background-color: #2e2f42;
@@ -103,7 +103,7 @@ contacts-tel {
   background-color: #404bbf;
   color: white;
 }
-/* section 2 */
+/* section 2 info */
 
 .sect-info-title {
   line-height: 1.07;
@@ -127,9 +127,9 @@ contacts-tel {
   color: #434455;
 }
 
-/* section 3 */
+/* section 3  product*/
 
-.section3-title {
+.section-prod-title {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -140,8 +140,8 @@ contacts-tel {
   color: #2e2f42;
 }
 
-/* section 4 */
-.section-4-title-main {
+/* section 4 team */
+.section-team-main {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -152,7 +152,7 @@ contacts-tel {
   color: #2e2f42;
 }
 
-.section-4-title {
+.section-team-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.22;
@@ -162,10 +162,10 @@ contacts-tel {
   color: #2e2f42;
 }
 
-.section-4-description {
+.section-team-description {
   font-weight: 400;
   font-size: 16px;
-  line-height: 1.33;
+  line-height: 1.5;
   text-align: center;
   letter-spacing: 0.02em;
 
