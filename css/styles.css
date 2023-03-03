@@ -1,12 +1,11 @@
-
 body {
   font-family: "Roboto", sans-serif;
   font-style: normal;
-  color: #434455 
+  color: #434455;
 }
-.text-down-line {
-    text-decoration: none;
-  }
+.text-down-line, link {
+  text-decoration: none;
+}
 /* заголовок */
 
 .nav-logo {
@@ -14,10 +13,9 @@ body {
   font-weight: 800;
   font-size: 18px;
   line-height: 1.33;
-
   letter-spacing: 0.03em;
-
   color: #4d5ae5;
+  text-transform: uppercase;
 }
 .menu-list {
   font-weight: 500;
@@ -55,7 +53,11 @@ contacts-tel {
 .menu-list-effect:focus {
   color: #404bbf;
 }
+.logo-black {
+    color: #2e2f42;
+  }
 
+ .list{ list-style: none}
 /* section 1 */
 
 .section-1 {
@@ -179,9 +181,7 @@ contacts-tel {
   color: #e7e9fc;
 }
 
-.logo-black {
-  color: #2e2f42;
-}
+
 
 /* portfolio */
 
