@@ -3,13 +3,12 @@ body {
   font-style: normal;
   color: #434455;
 }
-.text-down-line
- {
+.text-down-line {
   text-decoration: none;
 }
 .link {
-    text-decoration: none;
-  }
+  text-decoration: none;
+}
 /* заголовок */
 
 .menu-list-item {
