@@ -66,11 +66,11 @@ contacts-tel {
 }
 /* section 1 */
 
-.section-1 {
+.section-hero {
   background-color: #2e2f42;
 }
 
-.section-1-title {
+.section-hero-title {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -80,7 +80,7 @@ contacts-tel {
   color: #ffffff;
 }
 
-.section-1-btn {
+.section-hero-btn {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -94,22 +94,22 @@ contacts-tel {
   cursor: pointer;
 }
 
-.section-btn:hover {
+.section-hero-btn:hover {
   background-color: #404bbf;
   color: white;
 }
 
-.section-btn:focus {
+.section-hero-btn:focus {
   background-color: #404bbf;
   color: white;
 }
 /* section 2 */
 
-.sect-2-title {
+.sect-info-title {
   line-height: 1.07;
 }
 
-.section-2-title {
+.section-info-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -118,7 +118,7 @@ contacts-tel {
   color: #2e2f42;
 }
 
-.section-2-description {
+.section-info-description {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.33;
