@@ -73,7 +73,7 @@ contacts-tel {
 .section-1-title {
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.1;
+  line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
 
@@ -144,7 +144,7 @@ contacts-tel {
 .section-4-title-main {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.1;
+  line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
@@ -189,11 +189,13 @@ contacts-tel {
 }
 
 .logo-white {
-    color: #f4f4fd;
+  color: #f4f4fd;
 }
 
 /* portfolio */
-
+.sect-title {
+  /* hidden; } */
+}
 /* кнопки  */
 
 .btn-font {
