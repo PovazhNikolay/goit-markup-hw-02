@@ -43,12 +43,7 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.mail-link,
-contacts-tel {
-  color: #434455;
-}
-
-.contacts-tel {
+.mail-link {
   color: #434455;
 }
 
@@ -225,7 +220,6 @@ contacts-tel {
 }
 
 .section-title {
-  
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
