@@ -3,11 +3,15 @@ body {
   font-style: normal;
   color: #434455;
 }
-.text-down-line, link {
+.text-down-line,
+link {
   text-decoration: none;
 }
 /* заголовок */
 
+.menu-list-item {
+  text-transform: uppercase;
+}
 .nav-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
@@ -54,10 +58,12 @@ contacts-tel {
   color: #404bbf;
 }
 .logo-black {
-    color: #2e2f42;
-  }
+  color: #2e2f42;
+}
 
- .list{ list-style: none}
+.list {
+  list-style: none;
+}
 /* section 1 */
 
 .section-1 {
@@ -180,8 +186,6 @@ contacts-tel {
 .logo-white {
   color: #e7e9fc;
 }
-
-
 
 /* portfolio */
 
