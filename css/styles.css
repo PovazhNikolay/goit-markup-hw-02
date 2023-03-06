@@ -91,15 +91,12 @@ body {
   cursor: pointer;
 }
 
-.section-hero-btn:hover {
+.section-hero-btn:hover,
+focus {
   background-color: #404bbf;
-  color: white;
+  color: #ffffff;
 }
 
-.section-hero-btn:focus {
-  background-color: #404bbf;
-  color: white;
-}
 /* section 2 info */
 
 .sect-info-title {
