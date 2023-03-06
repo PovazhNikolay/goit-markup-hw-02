@@ -138,10 +138,9 @@ body {
 }
 
 /* section 4 team */
-.sect-team{
-    background-color:  #F4F4FD;
+.sect-team {
+  background-color: #f4f4fd;
 }
-
 
 .section-team-main {
   font-weight: 700;
@@ -230,8 +229,8 @@ body {
   color: #434455;
 }
 
-.btn-font:hover , :focus {
+.btn-font:hover,
+:focus {
   background-color: #404bbf;
   color: #f4f4fd;
 }
-
