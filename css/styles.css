@@ -203,19 +203,11 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
-  display: flex;
-  align-items: center;
-  text-align: center;
   letter-spacing: 0.04em;
   border: 1px solid #e7e9fc;
   border-radius: 4px;
   background: #f4f4fd;
   color: #4d5ae5;
-
-  flex: none;
-  order: 1;
-  flex-grow: 0;
-
   cursor: pointer;
 }
 
@@ -237,10 +229,10 @@ body {
 
 .btn-font:hover {
   background-color: #404bbf;
-  color: white;
+  color: #f4f4fd;
 }
 
 .btn-font:focus {
   background-color: #404bbf;
-  color: white;
+  color: #f4f4fd;
 }
