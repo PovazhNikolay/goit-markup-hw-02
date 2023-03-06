@@ -138,6 +138,11 @@ body {
 }
 
 /* section 4 team */
+.sect-team{
+    background-color:  #F4F4FD;
+}
+
+
 .section-team-main {
   font-weight: 700;
   font-size: 36px;
@@ -190,9 +195,7 @@ body {
 }
 
 /* portfolio */
-.sect-title {
-  /* hidden; } */
-}
+
 /* кнопки  */
 
 .list-item {
@@ -227,12 +230,8 @@ body {
   color: #434455;
 }
 
-.btn-font:hover {
+.btn-font:hover , :focus {
   background-color: #404bbf;
   color: #f4f4fd;
 }
 
-.btn-font:focus {
-  background-color: #404bbf;
-  color: #f4f4fd;
-}
